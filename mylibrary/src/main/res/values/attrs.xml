@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ProgressButton">
+        <attr name="textOn" format="string"/>
+        <attr name="textOff" format="string"/>
+        <attr name="drawPadding" format="dimension"/>
+    </declare-styleable>
+
+</resources>
