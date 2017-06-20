@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ProgressButton</string>
+
+    <string name="dosubscribe">&#160;&#160;订阅&#160;&#160;</string>
+    <string name="unsubscribe">已订阅</string>
+
 </resources>
