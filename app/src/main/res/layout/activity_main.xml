@@ -10,6 +10,7 @@
         android:id="@+id/button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:textColor="#ff6d34"
         progressbutton:textOff="@string/dosubscribe"
         progressbutton:textOn="@string/unsubscribe"
         progressbutton:drawPadding="7dp"
